@@ -1,0 +1,1 @@
+Problem7: Compute the average of an array.
