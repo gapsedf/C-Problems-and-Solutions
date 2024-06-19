@@ -1,0 +1,3 @@
+Problem10: Creating the Fiboli numbers. (Imaginary rule for different type of fibonacci number.)
+The rule is : F[n] = F[n-1]+F[n-2]+F[n-3] + 3
+First 3 elements is equal to 1.
